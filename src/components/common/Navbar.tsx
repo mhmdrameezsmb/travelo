@@ -42,7 +42,7 @@ export default function Navbar() {
 
           <li>
             <a className="text-lg text-gray-400 hover:text-blue-600" href="#">
-              Careers
+              Career
             </a>
           </li>
 
