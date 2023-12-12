@@ -48,7 +48,7 @@ export default function Navbar() {
 
           <li>
             <a className="text-lg text-gray-400 hover:text-gray-500" href="#">
-              Blo
+              Blog
             </a>
           </li>
         </ul>
